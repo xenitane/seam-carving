@@ -1,4 +1,3 @@
-#include <bits/time.h>
 #include <stdlib.h>
 #define NOB_IMPL
 #include "nob.h"
