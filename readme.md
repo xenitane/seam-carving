@@ -4,15 +4,12 @@
 >
 > This implementation uses the stb headers for image I/O
 
-## Setup
+## QUick start
 
-> Have a `C` compiler installed on your system. I'm using `gcc` here, but if you have another one, change the contents of the `cc` function in `nob.c`\'s first line for your compiler.
-
-```bash
-    cc -o nob nob.c
+```console
+$ cc -o nob nob.c
+$ ./nob.h ./images/test_0.jpg ./images/output.png
 ```
-
-This will generate the nob binary, run it to get started.
 
 ## Example Images
 
