@@ -4,7 +4,7 @@
 >
 > This implementation uses the stb headers for image I/O
 
-## QUick start
+## Quick start
 
 ```console
 $ cc -o nob nob.c
